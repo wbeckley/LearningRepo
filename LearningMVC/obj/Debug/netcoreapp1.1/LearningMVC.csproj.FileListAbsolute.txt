@@ -1,0 +1,8 @@
+/Users/wbeckley/dotnetCore/LearningRepo/LearningMVC/bin/Debug/netcoreapp1.1/LearningMVC.deps.json
+/Users/wbeckley/dotnetCore/LearningRepo/LearningMVC/bin/Debug/netcoreapp1.1/LearningMVC.runtimeconfig.json
+/Users/wbeckley/dotnetCore/LearningRepo/LearningMVC/bin/Debug/netcoreapp1.1/LearningMVC.runtimeconfig.dev.json
+/Users/wbeckley/dotnetCore/LearningRepo/LearningMVC/bin/Debug/netcoreapp1.1/LearningMVC.dll
+/Users/wbeckley/dotnetCore/LearningRepo/LearningMVC/bin/Debug/netcoreapp1.1/LearningMVC.pdb
+/Users/wbeckley/dotnetCore/LearningRepo/LearningMVC/obj/Debug/netcoreapp1.1/LearningMVC.AssemblyInfo.cs
+/Users/wbeckley/dotnetCore/LearningRepo/LearningMVC/obj/Debug/netcoreapp1.1/LearningMVC.dll
+/Users/wbeckley/dotnetCore/LearningRepo/LearningMVC/obj/Debug/netcoreapp1.1/LearningMVC.pdb
